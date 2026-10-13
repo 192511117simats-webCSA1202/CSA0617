@@ -1,0 +1,8 @@
+TASK 12 — 50,000 searches on 1,000,000 records
+Name: ENTER YOUR FULL NAME | Reg No: ENTER YOUR REGISTRATION NUMBER | Group: A
+Run date/time: 2026-10-13 08:11:12
+Seed: 1234 (DEMO)
+Queries: 50,000; database records: 1,000,000
+Binary Search: total=271.548 ms; avg=0.005431 ms/query; comparisons=947,235
+Hash Table: build/index time=216.090 ms; total lookup=15.019 ms; avg=0.000300 ms/query; key checks=50,000
+Note: timings are machine-specific; report the values from your own run.

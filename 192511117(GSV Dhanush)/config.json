@@ -1,0 +1,14 @@
+{
+  "student_name": "ENTER YOUR FULL NAME",
+  "registration_number": "ENTER YOUR REGISTRATION NUMBER",
+  "assigned_group": "A",
+  "demo_seed": 1234,
+  "dataset_sizes": [
+    1000,
+    10000,
+    100000,
+    1000000
+  ],
+  "task12_queries": 50000,
+  "note": "Before final submission, replace name/registration_number/group. Seed must be the last 4 digits of registration number."
+}
